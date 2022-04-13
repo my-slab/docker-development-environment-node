@@ -1,2 +1,2 @@
-# Docker development evironment template
+# Docker development environment template
 
